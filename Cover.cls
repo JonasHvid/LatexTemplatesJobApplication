@@ -1,5 +1,6 @@
 % @Author: Jonas Hvid
 % @Email: jonashvid@gmail.com
+% @LaTeX Class file
 \NeedsTeXFormat{LaTeX2e}
 \LoadClass{article}
 \ProvidesClass{Cover}[]
