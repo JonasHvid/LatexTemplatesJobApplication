@@ -1,13 +1,8 @@
-% @Author: ArthurBernard
-% @Email: arthur.bernard.92@gmail.com
-% @Date: 2019-07-31 08:59:29
-% @Last modified by: ArthurBernard
-% @Last modified time: 2019-08-23 08:27:21
+% @Author: Jonas Hvid
+% @Email: jonashvid@gmail.com
 \NeedsTeXFormat{LaTeX2e}
 \LoadClass{article}
 \ProvidesClass{Cover}[]
-
-% TODO : Add option several pages
 
 %%=================%%
 %%  Load packages  %%
